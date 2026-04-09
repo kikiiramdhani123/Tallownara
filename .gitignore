@@ -16,8 +16,9 @@ frontend/.vite/
 dist/
 landing-react/
 
-# Uploads (user content — not in git)
-uploads/
+# Uploads — tracked in git so images deploy to Render
+# (new uploads via admin will be lost on redeploy — use Cloudinary for permanent storage)
+uploads/.gitkeep
 
 # IDE
 .vscode/
