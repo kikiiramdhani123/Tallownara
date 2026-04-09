@@ -30,7 +30,7 @@ export default function Contact({ products }) {
                 </span>
                 <div>
                   <strong>WhatsApp</strong>
-                  <small>+62 895-391-334-398</small>
+                  <small>+62 895-123-123-12</small>
                 </div>
               </a>
             </div>
